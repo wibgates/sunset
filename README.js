@@ -4,7 +4,7 @@
 //Make sure you have an account with MLAB
 
 //Change the follow object to 
-{main:"hicerp",prefix:"hicerp_"} to {main:"mycluseter",prefix:"mycluseter_"}
+{main:"sampleCluster",prefix:"sampleCluster_"} to {main:"mycluseter",prefix:"mycluseter_"}
 
 # Usage
 
