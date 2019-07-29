@@ -41,7 +41,7 @@ obj = {
 
 sunset.upd(coll,q,obj)
 
-//incase yo want to update base on oid
+//incase you want to update based on oid
 //just place it as a parameter
 
 sunset.updById(coll,oid,obj)
