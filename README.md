@@ -1,4 +1,4 @@
-# sunset
+# Sunset API
 # Connect to MLab clusters with easy, add,request, delete, update using sunset one line functions
 
 //Make sure you have an account with MLAB
